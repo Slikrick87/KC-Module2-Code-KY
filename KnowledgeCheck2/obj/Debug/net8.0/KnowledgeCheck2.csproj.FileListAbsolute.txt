@@ -1,0 +1,15 @@
+C:\CodeYou\SoftwareDevModule\KnowledgeCheck2\KC-Module2-Code-KY\KnowledgeCheck2\bin\Debug\net8.0\KnowledgeCheck2.exe
+C:\CodeYou\SoftwareDevModule\KnowledgeCheck2\KC-Module2-Code-KY\KnowledgeCheck2\bin\Debug\net8.0\KnowledgeCheck2.deps.json
+C:\CodeYou\SoftwareDevModule\KnowledgeCheck2\KC-Module2-Code-KY\KnowledgeCheck2\bin\Debug\net8.0\KnowledgeCheck2.runtimeconfig.json
+C:\CodeYou\SoftwareDevModule\KnowledgeCheck2\KC-Module2-Code-KY\KnowledgeCheck2\bin\Debug\net8.0\KnowledgeCheck2.dll
+C:\CodeYou\SoftwareDevModule\KnowledgeCheck2\KC-Module2-Code-KY\KnowledgeCheck2\bin\Debug\net8.0\KnowledgeCheck2.pdb
+C:\CodeYou\SoftwareDevModule\KnowledgeCheck2\KC-Module2-Code-KY\KnowledgeCheck2\obj\Debug\net8.0\KnowledgeCheck2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodeYou\SoftwareDevModule\KnowledgeCheck2\KC-Module2-Code-KY\KnowledgeCheck2\obj\Debug\net8.0\KnowledgeCheck2.AssemblyInfoInputs.cache
+C:\CodeYou\SoftwareDevModule\KnowledgeCheck2\KC-Module2-Code-KY\KnowledgeCheck2\obj\Debug\net8.0\KnowledgeCheck2.AssemblyInfo.cs
+C:\CodeYou\SoftwareDevModule\KnowledgeCheck2\KC-Module2-Code-KY\KnowledgeCheck2\obj\Debug\net8.0\KnowledgeCheck2.csproj.CoreCompileInputs.cache
+C:\CodeYou\SoftwareDevModule\KnowledgeCheck2\KC-Module2-Code-KY\KnowledgeCheck2\obj\Debug\net8.0\KnowledgeCheck2.sourcelink.json
+C:\CodeYou\SoftwareDevModule\KnowledgeCheck2\KC-Module2-Code-KY\KnowledgeCheck2\obj\Debug\net8.0\KnowledgeCheck2.dll
+C:\CodeYou\SoftwareDevModule\KnowledgeCheck2\KC-Module2-Code-KY\KnowledgeCheck2\obj\Debug\net8.0\refint\KnowledgeCheck2.dll
+C:\CodeYou\SoftwareDevModule\KnowledgeCheck2\KC-Module2-Code-KY\KnowledgeCheck2\obj\Debug\net8.0\KnowledgeCheck2.pdb
+C:\CodeYou\SoftwareDevModule\KnowledgeCheck2\KC-Module2-Code-KY\KnowledgeCheck2\obj\Debug\net8.0\KnowledgeCheck2.genruntimeconfig.cache
+C:\CodeYou\SoftwareDevModule\KnowledgeCheck2\KC-Module2-Code-KY\KnowledgeCheck2\obj\Debug\net8.0\ref\KnowledgeCheck2.dll

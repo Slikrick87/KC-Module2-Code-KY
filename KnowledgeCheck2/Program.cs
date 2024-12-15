@@ -24,7 +24,6 @@ class Program
         {
             //************************************
             //**assuming I'm not supposed to use constructors here???
-
             // In this loop, populate the object's properties using Console.ReadLine()
 
             wizardList.Add(wizardClass.CreateGreenWizard());

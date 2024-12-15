@@ -8,8 +8,8 @@ namespace KnowledgeCheck2.WizardClasses
 {
     public class Wizard
     {
-        public string Name { get; set; } /*= "";*/
-        public string Description { get; set; } /*= string.Empty;*/
+        public string? Name { get; set; } /*= "";*/
+        public string? Description { get; set; } /*= string.Empty;*/
         public int HealthPoints { get; set; } /*= 0;*/
         public decimal MagicAttackPower { get; set; } /*= decimal.Zero;*/
         public decimal MagicDefense {  get; set; } /*= decimal.Zero;*/
